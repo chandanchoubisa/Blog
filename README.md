@@ -1,2 +1,2 @@
 # My Blog
-**Today's work** Start work on GitHub
+**Today's work:** Start work on GitHub
